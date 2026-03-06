@@ -1,5 +1,6 @@
 # Pewlett-Hackard-Analysis
-
+## Software
+SQL, PostgreSQL, pgAdmin 4
 
 ## Overview of the Analysis
 The purpose of this analysis is to determine two ways to deal with the rapid retirement of the baby boomers. The first way is to offer a retirement package to the people who are eligible to retire. The second way is to have the people who are thinking about retirement teach the new hires how to do the job. This way the company will not have thousands of job openings and the transition from retirement employees to new employees can be smooth.
